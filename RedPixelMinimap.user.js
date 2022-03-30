@@ -19,28 +19,7 @@
 // Keep in mind that just mentioning the license and creator in the source code is not appropriate credit, because it is
 // not visible by users. Appropriate credits are putting the license, creater, disclaimer and other by the CC BY-NC-SA required
 // attributions visible under the minimap. Use the licensing informations that are already provided.
-/*
- * DO NOT VIOLATE THE NAP!
-           _.-,=_"""--,_
-        .-" =/7"   _  .T "=.
-      ,/7  " "  ,//)`d       `.
-    ,/ "      4 ,i-/           `.
-   /         _)"_sm  =,=T"D      \
-  /         (_/"_`;\/gjo D-O      \
- /         ,d"""O-_.._.)  P.___    \
-,        ,"            \\  bi- `\| Y.
-|       .d              b\  P'   V  |
-|\      'O               O!",       |
-|L.       \__.=_           7        |
-'  D.           )         /         '
- \ T             \       |         /
-  \D             /       7 /      /
-   \             \     ," /"     /
-    `.            \   7'       ,'
-      "-_          `"'      ,-'
-         "-._           _.-"
-             """"---""""
- */
+
 
 cssStyle = `
 #minimapbg {
