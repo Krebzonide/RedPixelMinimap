@@ -1,0 +1,44 @@
+{
+	"Eldritch_Menace": {
+		"name": "Eldritch_Menace.png",
+		"x": -3687,
+		"y": 2746,
+		"width": 1576,
+		"height": 1058,
+	},
+	"Greater": {
+		"name": "Greater.png",
+		"x": 7365,
+		"y": -5061,
+		"width": 1287,
+		"height": 1173,
+	},
+	"IronCorpse": {
+		"name": "IronCorpse.png",
+		"x": -1986,
+		"y": 665,
+		"width": 928,
+		"height": 768,
+	},
+	"Pixelgrad": {
+		"name": "Pixelgrad.png",
+		"x": -900,
+		"y": -1122,
+		"width": 1410,
+		"height": 1195,
+	},
+	"RainbowBase": {
+		"name": "RainbowBase.png",
+		"x": 2386,
+		"y": -3788,
+		"width": 652,
+		"height": 434,
+	},
+	"RedMenace": {
+		"name": "RedMenace.png",
+		"x": -3250,
+		"y": 2748,
+		"width": 2340,
+		"height": 1954,
+	},
+}
